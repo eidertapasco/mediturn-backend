@@ -33,4 +33,4 @@ build/
 .vscode/
 
 # Archivo de propiedades con contraseñas - NUNCA al repositorio
-src/main/resources/application.properties
+src/main/resources/application-local.properties
